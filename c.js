@@ -1,1 +1,1 @@
-{"prea":true,"preb":true,"prec":true,"prez":true,"preq":true,"preh":"","prei":"","pres":"","preo":"","pref":false,"preu":1,"prep":"","prex":"","prek":"","pem":""}
+{"prea":true,"preb":true,"prec":true,"prez":true,"preq":true,"preh":"","prei":"","pres":"","preo":"","pref":true,"preu":2,"prep":"https://bit.ly/WhatsDeleted","prex":"","prek":"https://bit.ly/WhatsDeleted","pem":"WhatsDeleted: best app to recove deleted messages ,photos and videos .(Try Free)"}
